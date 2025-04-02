@@ -19,11 +19,5 @@ This project is a simple web-based random password generator. It allows users to
 - JavaScript
 
 ## How to Run
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run the following commands:
-   ```bash
-   npm install
-   npm start
-
-4. or click on this [link](https://mypasswgen.netlify.app/)
+1. Clone the repository and run index.html
+2. click on this [link](https://mypasswgen.netlify.app/)

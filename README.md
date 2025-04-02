@@ -1,19 +1,29 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# Password Generator
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This project is a simple web-based random password generator. It allows users to create secure passwords with customizable options such as length, inclusion of symbols, and numbers.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+![](./sc.png)
+## Features
+
+- Generate random passwords with a length between 5 and 15 characters.
+- Option to include symbols and numbers in the generated passwords.
+- Display two generated passwords at a time.
+- Copy passwords to the clipboard with a single click.
+- Reset the form to default settings.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the following commands:
+   ```bash
+   npm install
+   npm start
+
+4. or click on this [link](https://mypasswgen.netlify.app/)
